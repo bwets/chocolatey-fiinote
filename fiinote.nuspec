@@ -10,7 +10,6 @@
     <projectUrl>https://www.fiinote.com</projectUrl>
     <iconUrl>https://cdn.rawgit.com/bwets/chocolatey-fiinote/b02d17ab/icon.png</iconUrl>
     <copyright>FiiStudio 2017</copyright>
-    <!-- If there is a license Url available, it is required for the community feed -->
     <docsUrl>https://www.fiinote.com/#/help</docsUrl>
     <tags>fiinote</tags>
     <summary>The smarter, faster, easier way to Note</summary>
