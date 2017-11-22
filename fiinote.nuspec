@@ -8,7 +8,7 @@
     <title>FiiNote</title>
     <authors>FiiStudio Ltd.</authors>
     <projectUrl>https://www.fiinote.com</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/fiinote.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/bwets/chocolatey-fiinote/b02d17ab/icon.png</iconUrl>
     <copyright>FiiStudio 2017</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
     <docsUrl>https://www.fiinote.com/#/help</docsUrl>
