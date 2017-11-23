@@ -13,7 +13,12 @@
     <docsUrl>https://www.fiinote.com/#/help</docsUrl>
     <tags>fiinote</tags>
     <summary>The smarter, faster, easier way to Note</summary>
-    <description>The smarter, faster, easier way to Note</description>
+    <description>FiiNote is a free app for the Windows which lets you take down notes and allow inputs in a variety of ways. 
+    The app lets you take notes via typing on the keyboard, handwriting, voice, doddle, and cameras. 
+    The notes are always secured with AES encryption giving you security, and notes are secured in the Clouds. 
+    It also comes with calendars, alarms and to-do-lists. 
+    It helps you organize your data, books, calendars, etc. plus with so many other features.
+    </description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
